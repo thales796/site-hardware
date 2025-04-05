@@ -1,0 +1,59 @@
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body{
+    background-color: #292D32;
+}
+table{
+width: 100%;
+height: 98vh ;
+text-align: center;
+table-layout: fixed;
+}
+td{ 
+    width: 5.5%;
+}
+.b{
+    
+    background-color: #61666b;
+    width: 5.5%;
+    height: 70px ;
+}
+
+.pontaesq {border-radius: 20px 0 0 20px; }
+
+.pontadir {border-radius:0 20px 20px 0; }
+
+.inicial { height: 70%; 
+width: 80%;
+margin: auto;
+background-color: #515356;
+border-radius: 30px;
+line-height: 52px;
+border:solid white 1px;
+}
+.letra {
+    font-family: cursive;
+    color: white;
+    font-size: medium;
+}
+.tamanho{
+    width: 12%;
+    height: 5%;
+}
+.texto{
+    font-size: 50px;
+}
+.botao{
+padding: 10px 8px;
+background: #515356;
+width: 5.5%;
+height: 55px ;
+border-radius: 25px;
+border: 2px solid #FFFFFF;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}

@@ -1,0 +1,72 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    
+    body{
+        background-color: #292D32;
+    }
+    table{
+    width: 100%;
+    height: 98vh ;
+    text-align: center;
+    table-layout: fixed;
+    }
+    td{ 
+        width: 5.5%;
+    }
+    .b{
+        
+        background-color: #61666b;
+        width: 5.5%;
+        height: 70px ;
+    }
+    
+    .pontaesq {border-radius: 20px 0 0 20px; }
+    
+    .pontadir {border-radius:0 20px 20px 0; }
+    .letra {
+        font-family: cursive;
+        color: white;
+        font-size: medium;
+    }
+    a{
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+    .inicial { height: 70%; 
+        width: 80%;
+        margin: auto;
+        background-color: #515356;
+        border-radius: 30px;
+        line-height: 52px;
+        border:solid white 1px;
+        }
+    .texto{
+        font-family: cursive;
+        color: white;
+        font-size: 23px;
+    }
+    .texto2{
+        font-family: cursive;
+        color: white;
+        font-size: 15px;
+    }
+    .formulario{
+        background-color: #61666B;
+        border-radius: 25px;
+        height: 350px;
+        vertical-align: top;
+        border: 2px solid #FFFFFF;
+        width: 240px;
+        margin-left: 110px; 
+    }
+    .altura{
+        height: 250px;
+    }
+    input{
+        border-radius: 10px;
+        border: solid #FFFFFF 2px;
+        
+    }
+
+    
